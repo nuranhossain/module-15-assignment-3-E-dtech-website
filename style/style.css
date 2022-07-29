@@ -1,0 +1,21 @@
+/* navbar area  */
+
+/* .nav-item a {
+    font-size: 18px;
+} */
+.slider-img img {
+    height: 700px;
+    filter: brightness(40%);
+    object-fit: cover;
+}
+
+.content {
+    color: white;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.card-imgs img {
+    width: 200px;
+    height: 200px;
+}
